@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "合肥市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.27, 31.86]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芜湖市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.38, 31.33]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蚌埠市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.38, 32.92]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "淮南市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.00, 32.63]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马鞍山市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.50, 31.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "淮北市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116.80, 33.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "铜陵市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.82, 30.93]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安庆市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.05, 30.53]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黄山市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.33, 29.72]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阜阳市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[115.82, 32.90]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宿州市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116.98, 33.63]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "滁州市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.32, 32.30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "六安市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116.50, 31.77]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宣城市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.75, 30.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "池州市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.48, 30.67]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "亳州市"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[115.78, 33.85]]]
+      }
+    }
+  ]
+} 
